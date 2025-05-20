@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/.idea/encodings.xml
+/src/main/java/org/qgh/Main.java
+/.idea/misc.xml
+/.idea/vcs.xml
